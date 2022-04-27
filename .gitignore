@@ -1,0 +1,8 @@
+# Ignore the RPubs publish directory
+rsconnect/
+
+# Ignore unneeded workspace files
+**/*.Rhistory
+
+# Ignore testing files
+test/*.*
